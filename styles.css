@@ -1,0 +1,99 @@
+/*Styling*/
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+/*nav bar*/
+.Links{
+    font-size: 30px;
+    background-color:  #BB6588;
+    border: 5px solid #8889CC;
+    border-radius: 25px;
+    
+    
+}
+.Links a{
+    text-decoration: none;
+}
+
+li{
+    display: inline;
+    margin-left: 50px;
+}
+
+li a{
+    color: black;
+}
+/*Main*/
+.Background{
+    background-image: url("Arc\ City.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.Mafuyu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8889CC;
+}
+
+.Spin{
+    
+    background-color: #8889CC;
+    background-size:cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+.SpinText{
+    text-align: center;
+    background-color: #BB6588;
+}
+.Background_2{
+    background-image:url("Bridge.jpg");
+    background-size:contain;
+    height: 100vh;
+    width: 100vw;
+}
+
+.Chibi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.Herta-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.HoS{
+    height: 200px;
+    margin-top: 350px;
+}
+.Senti-Text{
+    height: 90px;
+    text-align: center;
+    font-size: 50px;
+    background-color:  #99CDFF ;
+}
+
+.Background_3{
+    background-color:  #33AAEE;
+    height: 1000px;
+}
+
+#Bronya{
+    height: 350px;
+    align-items: center;
+}
+
+.The-Text{
+    text-align: center;
+}
